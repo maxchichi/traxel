@@ -1,2 +1,2 @@
 # traxel
-A siple yet powerful tracking pixel in PHP
+A simple yet powerful tracking pixel in PHP
